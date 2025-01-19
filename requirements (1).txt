@@ -18,12 +18,14 @@ markupsafe==2.1.5
 mdurl==0.1.2
 nltk==3.8.1
 numpy==2.0.0
+openai==1.14.3
+
 packaging==24.1
 pandas==2.2.2
 pillow==10.4.0
 pip==24.0
 protobuf==5.27.2
-openai
+
 
 pyarrow==16.1.0
 pydeck==0.9.1
