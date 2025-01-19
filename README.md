@@ -4,10 +4,10 @@ Real-time Conversational Practice with AI-Powered IELTS Speaking Test Simulation
 
 
 ## Table of contents
-* [1. Project Overview](#project-description)]
-* [2. Features(#features)]
-* [3. Environment Variables(#environment-variables)]
-* [4. Technologies Used(#technologies-used)]
+* [1. Project Overview]
+* [2. Features]
+* [3. Environment Variables]
+* [4. Technologies Used]
 
 
   
