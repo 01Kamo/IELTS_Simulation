@@ -18,7 +18,7 @@ markupsafe==2.1.5
 mdurl==0.1.2
 nltk==3.8.1
 numpy==2.0.0
-openai==1.14.3
+openai==1.59.8
 
 packaging==24.1
 pandas==2.2.2
