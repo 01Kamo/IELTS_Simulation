@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+
 import os
 from google.cloud import speech
 from pydub import AudioSegment
